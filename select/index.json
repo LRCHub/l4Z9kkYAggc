@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Salty & Sweet",
+  "base_artist": "aespa",
+  "createdAt": "2026-02-11T06:12:41.130810Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Salty Water",
+      "artist": "Lightspeed Champion",
+      "has_synced": false,
+      "path": "select/01_Salty_Water_Lightspeed_Champion.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Salty Sweet",
+      "artist": "MS MR",
+      "has_synced": true,
+      "path": "select/02_Salty_Sweet_MS_MR.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Salty Dog",
+      "artist": "Cat Power",
+      "has_synced": true,
+      "path": "select/03_Salty_Dog_Cat_Power.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Salty Seas",
+      "artist": "Devics",
+      "has_synced": true,
+      "path": "select/04_Salty_Seas_Devics.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "A Salty Dog",
+      "artist": "Procol Harum",
+      "has_synced": true,
+      "path": "select/05_A_Salty_Dog_Procol_Harum.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "A Salty Dog",
+      "artist": "Styx",
+      "has_synced": false,
+      "path": "select/06_A_Salty_Dog_Styx.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Salty Dog",
+      "artist": "Flogging Molly",
+      "has_synced": true,
+      "path": "select/07_Salty_Dog_Flogging_Molly.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The Ocean Breathes Salty",
+      "artist": "Modest Mouse",
+      "has_synced": true,
+      "path": "select/08_The_Ocean_Breathes_Salty_Modest_Mouse.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "A Salty Salute",
+      "artist": "Guided By Voices",
+      "has_synced": false,
+      "path": "select/09_A_Salty_Salute_Guided_By_Voices.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Upon the Salty Wall of the Broody Gargoyle",
+      "artist": "Diabolical Masquerade",
+      "has_synced": false,
+      "path": "select/10_Upon_the_Salty_Wall_of_the_Broody_Gargoyle_Diabolical_Masquerade.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Ocean Breathes Salty",
+      "artist": "Sun Kil Moon",
+      "has_synced": false,
+      "path": "select/11_Ocean_Breathes_Salty_Sun_Kil_Moon.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Ocean Breathes Salty",
+      "artist": "Modest Mouse",
+      "has_synced": true,
+      "path": "select/12_Ocean_Breathes_Salty_Modest_Mouse.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Uncle Salty",
+      "artist": "Aerosmith",
+      "has_synced": true,
+      "path": "select/13_Uncle_Salty_Aerosmith.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Uncle Salty",
+      "artist": "Aerosmith",
+      "has_synced": true,
+      "path": "select/14_Uncle_Salty_Aerosmith.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Chocolate Salty Balls (P.S. I Love You)",
+      "artist": "Chef",
+      "has_synced": true,
+      "path": "select/15_Chocolate_Salty_Balls_(P.S._I_Love_You)_Chef.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Salty & Sweet",
+      "artist": "aespa",
+      "has_synced": false,
+      "path": "select/pl_01_Salty_&_Sweet_aespa.txt"
+    }
+  ]
+}
